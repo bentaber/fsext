@@ -5,9 +5,9 @@
   "author": "Alexander Pirsig <apirsig@web.de>",
   "homepage": "http://github.com/piscis/fsext",
   "contributors": [
-		"Alexander Pirsig <apirsig@web.de>",
+    "Alexander Pirsig <apirsig@web.de>",
     "Ben Taber <ben.taber@gmail.com>"
-	],
+  ],
   "dependencies": {
   },
   "bugs":{
@@ -17,7 +17,7 @@
   "repository": {
       "type": "git",
       "url": "http://github.com/piscis/fsext"
-	},
+  },
   "keywords": [ 
        "fs", "file", "copy", "duplicating", 
        "filesystem", "fs extention", "fsext" 
